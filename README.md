@@ -22,7 +22,7 @@ Ensure you have the following installed:
 pip install pandas numpy scipy matplotlib
 
 
-### 🛠️ Usage 
+🛠️ Usage 
 
 1️⃣ Clone this repository:
 
@@ -38,16 +38,15 @@ jupyter notebook dCp.ipynb
 
 4️⃣ Follow the instructions in the notebook to process your PCR data.
 
-🤝 ##Contributions##
+```
+## 🤝 Contributions
+Feel free to **contribute** by submitting pull requests or reporting issues!
 
-Feel free to contribute by submitting pull requests or reporting issues!
+## 📜 License
+This project is **open-source**. See `LICENSE` for details.
 
-📜 ##License##
+## 📩 Contact
+For inquiries, contact **claudiacastrillon** via GitHub. 💡
 
-This project is open-source. See LICENSE for details.
-
-📩 ##Contact##
-
-For inquiries, contact claudiacastrillon via GitHub. 💡
 
 
