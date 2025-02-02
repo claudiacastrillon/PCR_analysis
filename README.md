@@ -1,63 +1,63 @@
-PCR Analysis
+🧬 ###PCR Analysis###
 
-Overview
+📌 ##Overview##
 
 This repository contains code used for processing raw PCR machine data. The script extracts p-values necessary for further microarray analysis and was originally developed as part of a bachelor thesis.
 
-Features
+🚀 ##Features##
 
-Processes raw data obtained from PCR machines.
+🏷️ Processes raw data obtained from PCR machines.
 
-Computes p-values for gene expression analysis.
+📊 Computes p-values for gene expression analysis.
 
-Prepares data for downstream statistical and biological interpretation.
+🔬 Prepares data for downstream statistical and biological interpretation.
 
-Requirements
+⚙️ ##Requirements##
 
 Ensure you have the following installed:
 
-Python 3.x
+🐍 Python 3.x
 
-Jupyter Notebook
+📓 Jupyter Notebook
 
-Pandas
+🗂️ Pandas
 
-NumPy
+🔢 NumPy
 
-SciPy
+🧪 SciPy
 
-Matplotlib (optional for visualization)
+📈 Matplotlib (optional for visualization)
 
-Install dependencies using:
+📦 Install dependencies
 
 pip install pandas numpy scipy matplotlib
 
-Usage
+🛠️ ##Usage##
 
-Clone this repository:
+1️⃣ Clone this repository:
 
 git clone https://github.com/claudiacastrillon/PCR_analysis.git
 
-Navigate to the project folder:
+2️⃣ Navigate to the project folder:
 
 cd PCR_analysis
 
-Open the Jupyter Notebook:
+3️⃣ Open the Jupyter Notebook:
 
 jupyter notebook dCp.ipynb
 
-Follow the instructions in the notebook to process your PCR data.
+4️⃣ Follow the instructions in the notebook to process your PCR data.
 
-Contributions
+🤝 ##Contributions##
 
 Feel free to contribute by submitting pull requests or reporting issues!
 
-License
+📜 ##License##
 
 This project is open-source. See LICENSE for details.
 
-Contact
+📩 ##Contact##
 
-For inquiries, contact claudiacastrillon via GitHub.
+For inquiries, contact claudiacastrillon via GitHub. 💡
 
 
