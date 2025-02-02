@@ -1,38 +1,28 @@
-🧬 ###PCR Analysis###
+# 🧬 PCR Analysis
 
-📌 ##Overview##
+## 📌 Overview
+This repository contains code used for processing raw **PCR machine data**. The script extracts **p-values** necessary for further microarray analysis and was originally developed as part of a **bachelor thesis**.
 
-This repository contains code used for processing raw PCR machine data. The script extracts p-values necessary for further microarray analysis and was originally developed as part of a bachelor thesis.
+## 🚀 Features
+- 🏷️ **Processes raw data** obtained from PCR machines.
+- 📊 **Computes p-values** for gene expression analysis.
+- 🔬 **Prepares data** for downstream statistical and biological interpretation.
 
-🚀 ##Features##
-
-🏷️ Processes raw data obtained from PCR machines.
-
-📊 Computes p-values for gene expression analysis.
-
-🔬 Prepares data for downstream statistical and biological interpretation.
-
-⚙️ ##Requirements##
-
+## ⚙️ Requirements
 Ensure you have the following installed:
+- 🐍 **Python 3.x**
+- 📓 **Jupyter Notebook**
+- 🗂️ **Pandas**
+- 🔢 **NumPy**
+- 🧪 **SciPy**
+- 📈 **Matplotlib** (optional for visualization)
 
-🐍 Python 3.x
-
-📓 Jupyter Notebook
-
-🗂️ Pandas
-
-🔢 NumPy
-
-🧪 SciPy
-
-📈 Matplotlib (optional for visualization)
-
-📦 Install dependencies
-
+### 📦 Install dependencies
+```bash
 pip install pandas numpy scipy matplotlib
 
-🛠️ ##Usage##
+
+### 🛠️ Usage 
 
 1️⃣ Clone this repository:
 
